@@ -1,7 +1,11 @@
-# MyWorkSpace
+# Hello-World Repository
 
-Currently the files contained in the repository MyWorkSpace are examples 
-of my way of writing code on different programming languages.
+This is my "Welcome Page" repository.
+  * Examples of My Code
+  * List of My Projects   /* planned */
+  * List of My Ideas      /* planned */
 
-На данный момент файлы, находящиеся в репозитории MyWorkSpace, являются 
-примерами моего стиля написания кода на разных языках программирования. 
+Это мой приветственный репозиторий.
+  * Примеры кода
+  * Список моих проектов  /* в планах */
+  * Список моих идей      /* в планах */
