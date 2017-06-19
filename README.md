@@ -1,12 +1,12 @@
 # Hello-World Repository
 
-This is my "Welcome Page" repository.
+This is my "Welcome Page" repository!
 	* My Bio
   * Examples of My Code
   * List of My Projects			# planned
   * List of My Ideas				# planned
 
-Это мой приветственный репозиторий.
+Это мой приветственный репозиторий!
 	* Моя Биография
   * Примеры кода
   * Список моих проектов		# в планах 
